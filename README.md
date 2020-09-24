@@ -15,4 +15,4 @@ You are hereby permitted to modify this system base on your needs.
 
 ### Et cetera
 ~~Why don't Japanese poeple intergrate Student Cooperation Cards into their student cards? 
-カードが多すぎ・
+カードが多すぎ。~~
