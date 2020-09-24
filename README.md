@@ -3,12 +3,12 @@ A C program to experiment Japanese Student Cooperation Card（生協カード）
 This program was inspired by banking systems.
 
 ## Fuctions
-Password system to avoid suspicious logins.
-Modify multiple student records before prompting the main menu.
-Display all student records.
-Add funds to a student account.
-Deduct funds from a student account.
-Search for students based on their student ID.
+1. Password system to avoid suspicious logins.
+2. Modify multiple student records before prompting the main menu.
+3. Display all student records.
+4. Add funds to a student account.
+5. Deduct funds from a student account.
+6. Search for students based on their student ID.
 
 ## Note
 You are hereby permitted to modify this system base on your needs.
